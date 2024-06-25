@@ -1,1 +1,0 @@
-../utilities/scripts/CBIG_fMRI_create_data_list.csh

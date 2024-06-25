@@ -1,1 +1,0 @@
-../utilities/scripts/CBIG_antsApplyReg_vol2vol.sh
