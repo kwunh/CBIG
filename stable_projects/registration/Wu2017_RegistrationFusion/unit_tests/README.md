@@ -1,1 +1,0 @@
-Since the registration function code needs the recon-all output of more than 1 subject, no unit test is provided. To test the correctness of the code, please run the replication tests in `$CBIG_CODE_DIR/stable_projects/registration/Wu2017_RegistrationFusion/replication` folder.
